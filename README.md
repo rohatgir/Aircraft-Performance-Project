@@ -9,6 +9,6 @@ This respitory contains:
 2. The function codes created in MATLAB to aide in analysis. 
 3. The codes used to create the final results of analysis.
 
-Uploaded 2017
+Rahul R.
 
-Rahul R
+2017
